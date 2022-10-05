@@ -1,0 +1,30 @@
+Esperando cliente... 
+
+ Conexión establecida
+ Conectado a : 127.0.0.1
+
+ LA RANA: Diay que
+
+ PEPE: funcion
+
+ 
+Esperando cliente... 
+
+ Conexión establecida
+ Conectado a : 127.0.0.1
+
+ Prueba: ¡Hola!
+
+ Daniel: Prueba numero 1
+
+ 
+Esperando cliente... 
+
+ Conexión establecida
+ Conectado a : 127.0.0.1
+
+ Chio: DIAAY
+
+ Manuel: PRUEBA NUMERO 2
+
+ 
